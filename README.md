@@ -10,7 +10,7 @@
 
 From language editor to frontend architect — the obsession with structure carried over, first in sentences, now in systems.
 
-Spent a decade building and rebuilding [Kompas.id](https://kompas.id) through three architecture evolutions (WordPress → Vue.js → Nuxt.js). Built [@kompas/ui](https://github.com/gajayana) from scratch — a shared design system that shipped across multiple product teams. Now building Web3 interfaces at [Undercurrent Capital](https://undercurrentcapital.com) and experimenting with AI-powered tools on the side.
+Spent a decade building and rebuilding [Kompas.id](https://kompas.id) through three architecture evolutions (WordPress → Vue.js → Nuxt.js). Built [@kompas/ui](https://github.com/gajayana) from scratch — a shared design system that shipped across multiple product teams. Now building Web3 interfaces at Undercurrent Capital and experimenting with AI-powered tools on the side.
 
 Still revise code the way I once revised prose: line by line, with intent.
 
@@ -26,6 +26,9 @@ Still revise code the way I once revised prose: line by line, with intent.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
